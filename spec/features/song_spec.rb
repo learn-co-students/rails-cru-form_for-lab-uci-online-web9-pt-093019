@@ -75,5 +75,4 @@ describe 'song index' do
     expect(page).to have_css("p", text: "My Song")
   end
 
-  
 end
